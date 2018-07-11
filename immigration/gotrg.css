@@ -117,3 +117,88 @@ margin-left: 73px;
    color:#fff;
    	padding:10px 75px;
 }
+.footer-area{
+width: 100%;
+height: 500px;
+background-image: linear-gradient(to right, #0c496f 0%, #368ab8 100%);
+color: #ffffff;
+
+}
+.footer-area .column{
+padding-top: 50px;
+}
+.footer-area .column ul{
+list-style: none;
+}
+.footer-area .column ul li{
+font-weight: 300;
+font-size: 0.875rem;
+margin-bottom: 0.3125rem;
+}
+.footer-area .column ul li h5{
+font-weight: 300;
+font-size: 1.3125rem;
+line-height: 100%;
+margin-bottom: 0.9375rem;
+}
+.footer-area .btn{
+background-color: #fff;
+border-radius: 50px!important;
+font-weight: bold !important;
+position: relative;
+margin: 5px;
+}
+.footer-area .btn-hover{
+color: #246e98; 
+}
+.footer-area .btn-hover:hover{
+box-shadow: inset 0 -54px 0 0 #104f77!important;
+color: #fff;
+}
+.footer-area .btn2-hover{
+background-color: transparent;
+border:1px solid #fff !important;
+color: #fff;
+
+}
+.footer-area .btn2-hover:hover{
+background-color: #fff;
+color: #246e98;
+
+}
+.footer-area .button1{
+padding: 7px 120px 7px 20px!important;
+
+}
+.footer-area .btn i{
+margin: 10px;
+}
+.footer-area .button2{
+padding: 7px 75px 7px 20px!important;
+}
+.footer-area .button3{
+padding: 7px 60px 7px 20px!important;
+}
+.footer-area .button4{
+padding: 7px 40px 7px 20px!important;
+}
+.footer-area .logo{
+padding-left: 40px;
+padding-top: 50px;
+}
+
+.footer-area .icons i{
+margin: 10px;
+font-size: 20px;
+}
+ .copyright{
+text-align: center;
+margin:auto 0px;
+}
+ .copyright p{
+padding-top: 30px;
+margin:auto 0px;
+}
+ .copyright span{
+color: #246e98;
+}
